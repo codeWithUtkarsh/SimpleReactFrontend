@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: SimpleReactFrontend
+  annotations:
+    github.com/project-slug: codeWithUtkarsh/SimpleReactFrontend
+spec:
+  type: other
+  lifecycle: unknown
+  owner: utkarsh
